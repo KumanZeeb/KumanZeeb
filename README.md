@@ -1,0 +1,3 @@
+-Hi my name is actually Rukmana but i prefer everyone to say Kuman, i know kuman in indonesian is a bacteria but i like it :v 
+- i'm here looking for a job, if you interest please hire me hehe
+- i'm still learning by the way, but im a easy learning people
