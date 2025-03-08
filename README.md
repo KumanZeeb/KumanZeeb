@@ -1,4 +1,4 @@
-# Hi, I'm Kuman! 👋
+# Hi, I'm Kuman! fullstack enjenieeeww 👋
 
 *(Yes, my real name is Rukmana, but I prefer to be called Kuman. I know "kuman" means bacteria in Indonesian, but I think it's fun! :v)*
 
