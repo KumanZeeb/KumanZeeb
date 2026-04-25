@@ -103,6 +103,3 @@ contact_protocols:
 ## MY STAT
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KUMANZEEB&color=00FFCC&style=flat-square&label=SCANS" /> <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFCC?style=flat-square&logo=statuspage&logoColor=00FFCC&labelColor=0A0A0A" /> </p><p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=500&height=30&lines=Bacteria+level+code%2C+Enterprise+level+impact.;Ready+for+deployment.;Awaiting+your+signal."> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=500&height=30&lines=Bacteria+level+code%2C+Enterprise+level+impact.;Ready+for+deployment.;Awaiting+your+signal."> </picture> </p><p align="center"> <code>"From micro organisms to macro solutions — let's build the future together."</code> </p> ```
-
-Tinggal ganti sesuai kebutuhan lo:
-Variable
