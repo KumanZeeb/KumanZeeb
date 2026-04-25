@@ -1,125 +1,108 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kuman!;Fullstack+Enjenieeeww+%F0%9F%91%8B;Bacteria+by+name%2C+dev+by+nature+%F0%9F%A6%A0%F0%9F%92%BB" alt="Typing Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Kuman.;Fullstack+Enjenieeeww.;Bacteria+by+name%2C+Dev+by+nature.;System.Online.">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Kuman.;Fullstack+Enjenieeeww.;Bacteria+by+name%2C+Dev+by+nature.;System.Online.">
+  </picture>
 </p>
 
 <p align="center">
-  <i>Yes, my real name is Rukmana, but I prefer to be called Kuman.</i><br>
-  <i>I know "kuman" means bacteria in Indonesian, but hey — it's fun! :v</i>
+  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_WORK-00FFCC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A">
+  <img src="https://img.shields.io/badge/ROLE-FULLSTACK_ENGINEER-0066FF?style=for-the-badge&logo=codeium&logoColor=white&labelColor=0A0A0A">
+  <img src="https://img.shields.io/badge/LEVEL-ADVANCED-FF00FF?style=for-the-badge&logo=level&logoColor=white&labelColor=0A0A0A">
 </p>
 
 ---
 
-## 🧀 About Me
+**## SYSTEM INIT**
 
-- 🦠 **Kuman** – Fullstack Enjenieeeww from Indonesia  
-- 🧠 Always excited to explore new tech + improve skills  
-- 🔍 Currently looking for **job opportunities** (internship / freelance / full-time)  
-- 💬 Fun fact: I might be tiny like a bacteria, but my code is *clean* 💪
+```javascript
+const kuman = {
+  realName: "Rukmana",
+  alias: "Kuman",
+  etymology: "Bacteria (but make it cool)",
+  role: "Fullstack Engineer",
+  status: "Actively seeking opportunities",
+  location: "Earth, ID • GMT+7",
+  mantra: "From micro organisms to macro solutions"
+}
+Yes, "kuman" means bacteria in Indonesian. No, I don't bite. I compile.
 
-> "Bacteria can survive anything — so can my debugging session." – Kuman
+## CORE SPECS
 
----
+<table align="center"> <tr> <td width="50%">
+Neural Pathways
 
-## 🤔 Why Hire Me?
+Adaptive learning matrix
 
-| Trait | Why It Matters |
-|-------|----------------|
-| 🚀 Quick Learner | Adapt fast, love new challenges |
-| 🔎 Curious Mind | Always eager to learn & improve |
-| 🤝 Team Player | Enjoy collab & sharing ideas |
+Complex problem solving
 
----
+System architecture design
 
-## 🌱 What I'm Up To
+Cross-functional collaboration
 
-- 📘 Expanding knowledge in programming & tech fields  
-- 💼 Open to **internships, freelance, or full-time roles**  
-- 🤙 If I'd be a good fit for your team — let's chat!
+</td> <td width="50%">
+Mission Objectives
 
----
+Ship production-ready code
 
-## 🧰 Tech Stack
+Optimize legacy systems
 
-### 🌐 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+Scale with best practices
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+Deliver business value
 
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+</td> </tr> </table>
+## TECH MATRIX
 
-### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+Primary Protocols
 
-### 🐳 DevOps & Tools  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,go&theme=dark&perline=5" /> </p>
+Frontend Stack
 
----
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,tailwind&theme=dark&perline=5" /> </p>
+Backend Infrastructure
 
-## 📊 GitHub Stats
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,fastapi&theme=dark&perline=5" /> </p>
+Data Layer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUMANZEEB&theme=radical&hide_border=true" width="48%" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma&theme=dark&perline=5" /> </p>
+DevOps & Toolchain
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMANZEEB&layout=compact&theme=radical&hide_border=true" width="50%" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,terraform&theme=dark&perline=5" /> </p>
+## GITHUB METRICS
 
----
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&ring_color=00FFCC&count_private=true&rank_icon=github&include_all_commits=true"> <img src="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KUMANZEEB&theme=github-dark&hide_border=true&ring=00FFCC&fire=00FFCC&sideNums=00FFCC&currStreakLabel=00FFCC&background=0D1117"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUMANZEEB&theme=dark&hide_border=true" width="49%" /> </picture> </div><div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMANZEEB&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFCC"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMANZEEB&layout=compact&theme=radical&hide_border=true" width="45%" /> </picture> </div>
+## ACHIEVEMENTS UNLOCKED
 
-## 🏆 GitHub Trophies
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=KUMANZEEB&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"> <img src="https://github-profile-trophy.vercel.app/?username=KUMANZEEB&theme=radical&no-frame=true&margin-w=10" /> </picture> </div>
+## ACTIVITY STREAM
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUMANZEEB&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</p>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KUMANZEEB&theme=react-dark&bg_color=0D1117&hide_border=true&color=00FFCC&line=0066FF&point=00FFCC&area=true"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUMANZEEB&theme=react-dark&hide_border=true" width="100%" /> </picture> </div>
+## OPPORTUNITY SEEKING
 
----
+yaml
+current_status: OPEN_FOR_WORK
+availability:
+  - internship
+  - freelance
+  - full_time
+interests:
+  - backend_engineering
+  - fullstack_development
+  - devops_roles
+  - system_design
 
-## 🦠 Kuman's Random Corner
+contact_protocols:
+  primary: maakunn470@gmail.com
+  social:
+    instagram: "@mannzeeebb"
+    fesnuk: "mann"
+## CONNECTION CHANNELS
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<p align="center"> <a href="mailto:maakunn470@gmail.com"> <img src="https://img.shields.io/badge/EMAIL_SECURE-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"> </a> <a href="https://instagram.com/kumannzeeb"> <img src="https://img.shields.io/badge/INSTAGRAM_CONTACT-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A"> </a> <a href="https://github.com/KUMANZEEB"> <img src="https://img.shields.io/badge/GITHUB_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"> </a> </p>
+## MY STAT
 
-<p align="center">
-  <i>“Jangan remehin bakteri — kita bisa ngerjain backend sambil tidur.”</i> 😴💻
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KUMANZEEB&color=00FFCC&style=flat-square&label=SCANS" /> <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FFCC?style=flat-square&logo=statuspage&logoColor=00FFCC&labelColor=0A0A0A" /> </p><p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=500&height=30&lines=Bacteria+level+code%2C+Enterprise+level+impact.;Ready+for+deployment.;Awaiting+your+signal."> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=500&height=30&lines=Bacteria+level+code%2C+Enterprise+level+impact.;Ready+for+deployment.;Awaiting+your+signal."> </picture> </p><p align="center"> <code>"From micro organisms to macro solutions — let's build the future together."</code> </p> ```
 
----
-
-## 📫 Let's Connect – I'm open for hire!
-
-<p align="center">
-  <a href="mailto:maakunn470@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/kumannzeeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/KUMANZEEB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KUMANZEEB&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <i>Wanna hire a bacteria that ships clean code? <br> Let's talk, enjenieeeww style 🤙</i>
-</p>
+Tinggal ganti sesuai kebutuhan lo:
+Variable
