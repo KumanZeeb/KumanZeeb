@@ -1,8 +1,6 @@
-````markdown id="overkill-kuman-readme"
-<!-- ================= HEADER ================= -->
-
+````markdown
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kuman+%F0%9F%A7%A0;Fullstack+Engineer;System+Online+%E2%9C%94;Injecting+Code+Into+Reality..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kuman;Fullstack+Engineer;System+Online;Injecting+Code+Into+Reality..." />
 </p>
 
 <p align="center">
@@ -37,17 +35,14 @@ const kuman = {
 
 ---
 
-## 📊 LIVE CHAOS METRICS
+## 📊 LIVE STATS
 
 <p align="center">
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00FFCC&icon_color=00FFCC" 
+    srcset="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
     media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=default&hide_border=true" 
-    media="(prefers-color-scheme: light)" />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KUMANZEEB" />
 </picture>
 
@@ -71,7 +66,7 @@ const kuman = {
 
 ---
 
-## 🏆 TROPHY SYSTEM
+## 🏆 TROPHIES
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KUMANZEEB&theme=matrix&no-frame=true&row=1&column=6" />
@@ -82,18 +77,16 @@ const kuman = {
 ## 📈 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUMANZEEB&theme=react-dark&hide_border=true&color=00FFCC&line=00FFCC&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUMANZEEB&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE (AUTO ANIMATED)
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KUMANZEEB/KUMANZEEB/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> ⚠️ Snake ini butuh GitHub Action biar hidup. Kalau belum ada, bilang aja nanti gue bikinin workflow.yml nya.
 
 ---
 
