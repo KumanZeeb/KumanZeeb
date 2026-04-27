@@ -8,7 +8,11 @@
   <img src="https://img.shields.io/badge/MODE-CHAOS_ENGINEER-FF00FF?style=for-the-badge&labelColor=0A0A0A">
 </p>
 
+---
+
 ## 🧬 SYSTEM CORE
+
+```javascript
 const kuman = {
   name: "Rukmana",
   alias: "Kuman",
@@ -18,6 +22,9 @@ const kuman = {
   brain: ["System Design", "Backend", "Frontend", "DevOps"],
   motto: "Small name. Big systems."
 }
+```
+
+---
 
 ## ⚙️ TECH STACK
 
@@ -25,34 +32,20 @@ const kuman = {
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,vue,nodejs,docker,kubernetes,aws,postgres,redis&theme=dark" />
 </p>
 
+---
+
 ## 📊 LIVE STATS
 
 <p align="center">
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
-    media="(prefers-color-scheme: dark)" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KUMANZEEB" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=KUMANZEEB&theme=github-dark&hide_border=true" 
-    media="(prefers-color-scheme: dark)" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KUMANZEEB" />
-</picture>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KUMANZEEB&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMANZEEB&layout=compact&theme=github_dark&hide_border=true" 
-    media="(prefers-color-scheme: dark)" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMANZEEB&layout=compact" />
-</picture>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMANZEEB&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+---
 
 ## 🏆 TROPHIES
 
@@ -60,19 +53,27 @@ const kuman = {
   <img src="https://github-profile-trophy.vercel.app/?username=KUMANZEEB&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
+---
+
 ## 📈 ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUMANZEEB&theme=react-dark&hide_border=true" />
 </p>
 
+---
+
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KUMANZEEB/KUMANZEEB/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/KumanZeeb/KumanZeeb/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
+
 ## 🧠 SYSTEM STATUS
+
+```yaml
 status: ONLINE
 focus:
   - scalable_backend
@@ -86,6 +87,9 @@ availability:
 energy_level: 99%
 bugs: inevitable
 fixes: guaranteed
+```
+
+---
 
 ## 📡 CONNECT
 
@@ -93,13 +97,15 @@ fixes: guaranteed
   <a href="mailto:maakunn470@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com/kumannzeeb">
+  <a href="https://instagram.com/manzeeebbbb">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://github.com/KUMANZEEB">
+  <a href="https://github.com/KumanZeeb">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+
+---
 
 ## 🧾 FINAL SIGNAL
 
@@ -108,5 +114,5 @@ fixes: guaranteed
 </p>
 
 <p align="center">
-  <code>“From bacteria to backend systems — evolution continues.”</code>
+  <code>"From bacteria to backend systems — evolution continues."</code>
 </p>
