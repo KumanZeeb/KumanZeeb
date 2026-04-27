@@ -47,12 +47,6 @@ const kuman = {
 
 ---
 
-## 🏆 TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUMANZEEB&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 📈 ACTIVITY GRAPH
@@ -60,15 +54,6 @@ const kuman = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUMANZEEB&theme=react-dark&hide_border=true" />
 </p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KumanZeeb/KumanZeeb/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 ## 🧠 SYSTEM STATUS
