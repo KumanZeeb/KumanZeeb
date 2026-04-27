@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kuman;Fullstack+Engineer;System+Online;Injecting+Code+Into+Reality..." />
 </p>
@@ -9,11 +8,7 @@
   <img src="https://img.shields.io/badge/MODE-CHAOS_ENGINEER-FF00FF?style=for-the-badge&labelColor=0A0A0A">
 </p>
 
----
-
 ## 🧬 SYSTEM CORE
-
-```javascript
 const kuman = {
   name: "Rukmana",
   alias: "Kuman",
@@ -23,17 +18,12 @@ const kuman = {
   brain: ["System Design", "Backend", "Frontend", "DevOps"],
   motto: "Small name. Big systems."
 }
-````
-
----
 
 ## ⚙️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,vue,nodejs,docker,kubernetes,aws,postgres,redis&theme=dark" />
 </p>
-
----
 
 ## 📊 LIVE STATS
 
@@ -64,15 +54,11 @@ const kuman = {
 </picture>
 </p>
 
----
-
 ## 🏆 TROPHIES
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KUMANZEEB&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
-
----
 
 ## 📈 ACTIVITY GRAPH
 
@@ -80,19 +66,13 @@ const kuman = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUMANZEEB&theme=react-dark&hide_border=true" />
 </p>
 
----
-
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KUMANZEEB/KUMANZEEB/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
 ## 🧠 SYSTEM STATUS
-
-```yaml
 status: ONLINE
 focus:
   - scalable_backend
@@ -106,9 +86,6 @@ availability:
 energy_level: 99%
 bugs: inevitable
 fixes: guaranteed
-```
-
----
 
 ## 📡 CONNECT
 
@@ -124,8 +101,6 @@ fixes: guaranteed
   </a>
 </p>
 
----
-
 ## 🧾 FINAL SIGNAL
 
 <p align="center">
@@ -135,4 +110,3 @@ fixes: guaranteed
 <p align="center">
   <code>“From bacteria to backend systems — evolution continues.”</code>
 </p>
-```
