@@ -29,10 +29,10 @@ const kuman = {
 ## ⚙️ TECH STACK
 
 <p align="center">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,docker,kubernetes,aws,postgres,redis&theme=dark" />
-  </picture>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Facebook_Lite_logo.svg/48px-Facebook_Lite_logo.svg.png" width="48" height="48" style="margin-left: 8px; vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,nodejs,kubernetes,aws,postgres,redis&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Facebook_Lite.png/120px-Facebook_Lite.png" width="40" />&nbsp;&nbsp;
 </p>
 
 ---
