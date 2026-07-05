@@ -29,7 +29,13 @@ const kuman = {
 ## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,vue,nodejs,docker,kubernetes,aws,postgres,redis&theme=dark", "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Facebook_Lite_logo.svg/40px-Facebook_Lite_logo.svg.png" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,vue,nodejs,docker,kubernetes,aws,postgres,redis&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Facebook_Lite_logo.svg/40px-Facebook_Lite_logo.svg.png" alt="Fesnuk Lite" width="40" />
+  <br/>
+  <sub>+ Facebook Lite</sub>
 </p>
 
 ---
