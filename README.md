@@ -35,7 +35,6 @@ const kuman = {
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Facebook_Lite_logo.svg/40px-Facebook_Lite_logo.svg.png" alt="Fesnuk Lite" width="40" />
   <br/>
-  <sub>+ Facebook Lite</sub>
 </p>
 
 ---
