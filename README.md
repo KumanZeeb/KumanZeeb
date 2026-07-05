@@ -10,7 +10,7 @@
 
 ---
 
-## 🧬 SYSTEM CORE
+## DAMNN THIS IS COOL RIGHT
 
 ```javascript
 const kuman = {
@@ -26,10 +26,10 @@ const kuman = {
 
 ---
 
-## ⚙️ TECH STACK
+## MY TECH
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,nodejs,kubernetes,aws,postgres,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,aws,postgres,redis&theme=dark" />
 </p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Facebook_Lite.png/120px-Facebook_Lite.png" width="40" />&nbsp;&nbsp;
@@ -37,7 +37,7 @@ const kuman = {
 
 ---
 
-## 📊 LIVE STATS
+## STAT
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KUMANZEEB&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -52,14 +52,14 @@ const kuman = {
 
 ---
 
-## 📈 ACTIVITY GRAPH
+## UMM
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUMANZEEB&theme=react-dark&hide_border=true" />
 </p>
 ---
 
-## 🧠 SYSTEM STATUS
+## ANOTHER SHIT 
 
 ```yaml
 status: ONLINE
@@ -79,7 +79,7 @@ fixes: guaranteed
 
 ---
 
-## 📡 CONNECT
+## LETS CONTACT ME
 
 <p align="center">
   <a href="mailto:maakunn470@gmail.com">
@@ -95,7 +95,7 @@ fixes: guaranteed
 
 ---
 
-## 🧾 FINAL SIGNAL
+## IDK BUT THIS IS COOL ISN`T IT?
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=888888&center=true&width=500&lines=Ready+for+deployment...;Awaiting+your+signal...;Let's+build+something+insane." />
