@@ -29,7 +29,7 @@ const kuman = {
 ## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,vue,nodejs,docker,kubernetes,aws,postgres,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,docker,kubernetes,aws,postgres,redis&theme=dark" />
 </p>
 
 <p align="center">
